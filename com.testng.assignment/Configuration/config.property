@@ -1,0 +1,5 @@
+ChromeDriver=C:\\Users\\fbfai\\Desktop\\D\\Drivers\\chromedriver_win32\\chromedriver.exe
+
+IEDriver=C:\\Users\\fbfai\\Desktop\\D\\Drivers\\IE Browser\\IEDriverServer_Win32_3.150.1\\IEDriverServer.exe
+
+URL=https://www.saucedemo.com/
